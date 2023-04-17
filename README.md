@@ -3,3 +3,5 @@ The movie recommendation system typically works by analyzing large amounts of da
 ##  Types of recommendation systems
 : content-based and collaborative filtering. Content-based systems recommend movies that are similar to those that a user has already liked based on the content features of the movies, such as genres, actors, and directors. Collaborative filtering systems, on the other hand, recommend movies based on the preferences and behavior of similar users. In other words, if two users have similar movie-watching habits, the system will recommend movies that one user has liked to the other.
 ![alt text](https://i.ytimg.com/vi/3_0gWNzBiGQ/maxresdefault.jpg)
+
+Movie recommendation systems can be integrated into various platforms, such as streaming services, movie rental websites, and social media platforms. These systems have become increasingly popular as the amount of available content has grown, and users face more options than ever before.
